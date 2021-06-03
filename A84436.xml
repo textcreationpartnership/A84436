@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Councel of Officers at White-Hall, to Colonel Lilburne Commander in Chief of the forces in Scotland, and officers under his command, concerning the late transactions in dissolution of the Parliament together with the return from the Councel of Officers, met at Dalkeith, Tuesday May 17. 1653. thereunto.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84436</idno><idno type="EEBO-CITATION">99897588</idno>
+  <idno type="VID">133124</idno>
+  <idno type="EEBO-PROQUEST">2240938324</idno>
+  
+            <idno type="STC">Wing E739F</idno>
+            <idno type="STC">ESTC R225931</idno>
+            <idno type="PROQUEST">99897588</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897588e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2514:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Councel of Officers at White-Hall, to Colonel Lilburne Commander in Chief of the forces in Scotland, and officers under his command, concerning the late transactions in dissolution of the Parliament together with the return from the Councel of Officers, met at Dalkeith, Tuesday May 17. 1653. thereunto.</title>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>according to order,</publisher>
+                  <pubPlace>Printed at Leith :</pubPlace>
+                  <date>anno Dom. 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, Robert, 1613-1665 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133124:1"/>
+            <p>A LETTER From the COUNCEL of OFFICERS <hi>At WHITE-HALL,</hi> TO COLONEL <hi>LILBƲRNE</hi> Commander in Chief of the Forces in SCOTLAND, And OFFICERS under his command, Concerning the late Transactions in Dissolution of the PARLIAMENT: Together with the RETURN from the COUNCEL of OFFICERS, Met at <hi>Dalkeith, Tuesday May</hi> 17. 1653. thereunto.</p>
+            <p>Printed at <hi>Leith,</hi> according to Order, <hi>Anno Dom.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:133124:2"/>
+            <pb n="3" facs="tcp:133124:2"/>
+            <opener>
+               <salute>Honorable, and our dear Christian Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen we consider the many and wonderfull things which the Lord hath of late years brought to pass in these three Nations, in the subduing of great Armies, and casting down all the strong holds of the Enemy, in pouring contempt upon Princes and great men, that have not kissed, but opposed the Lord Jesus, in the Work he hath been, and is still carrying on in the World, and in taking down and al<g ref="char:EOLhyphen"/>tering forms of Government that have been in these Nations, both Civill and Ecclesiasticall: We cannot but cry out, <hi>Great and marvel<g ref="char:EOLhyphen"/>lous are thy works, Lord God Almighty, just and true are thy wayes, thou King of Saints: Who shall not fear thee, O Lord, and glorifie thy Name? for thy judgments are made manifest.</hi>
+            </p>
+            <p>As you were witnesses of, and active in some of those great chan<g ref="char:EOLhyphen"/>ges that have formerly been made; so we doubt not but you have, (though at a distance) felt the late earth-quake, and have heard of the sudden dissolution of the Parliament; which yet being so great a Re<g ref="char:EOLhyphen"/>volution, we thought it our duty to send you this Letter, to the end we might therein let you know the frame of our hearts and how de<g ref="char:EOLhyphen"/>sirous we are, that you and we may in the midst of the great dispen<g ref="char:EOLhyphen"/>sations of God, still continue stedfast in one spirit; that so, if it be the will of the Lord, we may be further instrumentall in bringing about those things which may be to the glory of God, the good of his Peo<g ref="char:EOLhyphen"/>ple, and the peace and welfare of the Commonwealth.</p>
+            <p>It would require more time then we have now to spare, to give you a particular and full accompt of all the grounds and reasons upon which this great Action was undertaken, and therefore therein we shall refer you to the Declaration of the Lord Generall, and his Councell of Officers, of the 22. of <hi>April</hi> last, and to your own Obser<g ref="char:EOLhyphen"/>vations concerning the ill management of Affairs by the late Parlia<g ref="char:EOLhyphen"/>ment. Onely we shall say, that this last dangerous remedy of a dis<g ref="char:EOLhyphen"/>solution, was not used, till all other wayes had been by us assayed, and by them rejected. And therefore after four years expectation (since
+<pb n="4" facs="tcp:133124:3"/> the change of the Government, finding no performance of those things that tend to the settlement of the Commonwealth in peace and righteousnesse, and being abundantly satisfied upon long experi<g ref="char:EOLhyphen"/>ence, that the Parliament as it was constituted, were so far from being Instruments in protecting the Work of the Lord, that this whole Cause was in great danger to perish under their hands, for which there hath been so vast an expence of Blood and Treasure. After much seeking the face of God, and taking Councell one with another, it was generally apprehended, that the only way left us, was, To endeavour a speedy change in the <hi>Supream Authority,</hi> that so the perpetuall sit<g ref="char:EOLhyphen"/>ting of the Parliament might be prevented, and the Government laid upon the shoulders of such men, as might hopefully give us the fruit of all our labour and blood, and encourage good men to be still wil<g ref="char:EOLhyphen"/>ling to hazard their lives against the common Enemy, which as things lately stood, many had little heart to do. And it was in our hearts to seek this thing in such a way, that the Parliament might have had the honor of it; but it pleased not the Lord to give them an heart to incline to the motions made in order thereunto, by the General, in the name of himself and his Officers, many of which were present; but rather to endeavor a hasty and inconsiderate passing of an Act for a new Representative, the danger whereof was very evident, and was by the General, at a meeting with many of the Members of Parlia<g ref="char:EOLhyphen"/>ment, and Officers of the Army, abundantly demonstrated to them; which yet the next day was so earnestly and precipitantly persisted in, that it was found necessary to put them to a sudden Dissolution; which also we hope the Lord wil make the <hi>Medium</hi> to future good; of which there is the more expectation, because it hath pleased God, who hath the hearts of all men in his own hand, so to order the spi<g ref="char:EOLhyphen"/>rits of men, that not only the Army and Fleet do most unanimously concur and agree, but also the Generality of all sorts of People do re<g ref="char:EOLhyphen"/>joyce therein, insomuch that there is not the appearance of the least disturbance. And it is the continual and fervent prayers of all the People of God, that this great Change may have the extraordinary blessing of God upon it.</p>
+            <p>By this inclosed Declaration, you will perceive what Provision is made for the present management of Affairs, till persons of approved fidelity and honesty may be called, to take upon them the Supream Authority of this Common-wealth; which being done, we may have cause to hope, the Lord will make them a future blessing to us.</p>
+            <pb n="5" facs="tcp:133124:3"/>
+            <p>Dear Friends, We are perswaded this is the Lords own Work, and ought to be marvelous in our eyes. The Lord hath once and again pul'd down the Mighty from their seats, and we trust, it is that Him<g ref="char:EOLhyphen"/>self may reign; and therefore let the Earth rejoyce, and these our Islands be glad thereof; for though Clouds and Darkness are round about Him, yet Righteousness and Judgment are the habitation of His Throne. The Lord is terrible in His Doings, therefore the guilty world will tremble: but <hi>Sion</hi> shall hear and be glad, and the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Judah</hi> shall rejoyce, because of His judgments. Let us there<g ref="char:EOLhyphen"/>fore (dear Brethren) serve the Lord with fear, and rejoyce with trembling; for we are not without hope that our Lord Jesus Christ who is the King of Saints, will henceforth shew Himself to be the King of Nations also.</p>
+            <p>We do not doubt, but the Lord will make your hearts as ours in this great business, and that as the Lord hath wonderfully stirred up the heart of his Excellency the Lord General, to put himself upon God, in this great Undertaking, for the Interest of Jesus Christ and His People; so we shall adhere to Him, and one to another therein. We know your sincere love to Christ and His People is such, that we shall use no arguments unto you, but only mind you, That when the Lord called our Brethren to the service of <hi>Ireland,</hi> in the year 1649. at a solemn Meeting of the Officers designed for <hi>Ireland,</hi> with those that remained here, (at which Meeting many of your selves were present) after that we had with many prayers and tears, recommen<g ref="char:EOLhyphen"/>ded one another into the bosom of Christ, we did also in the pre<g ref="char:EOLhyphen"/>sence of each other, and before the Lord, solemnly submit our selves, and all our affairs to be wholly at his dispose, resolving through the influence of His Spirit, in all our Publick Undertakings, not to seek our selves, but the advancement of the Affairs and Kingdom of our Lord Jesus Christ. In this Spirit, and with these Resolutions, we then parted to our several Imployments, and the Lord hath blessed us hitherto,; and lo, we are yet alive, though thousands of our dear Friends who engaged with us, are dead. The Lord grant we may with our Lives be instrumental to carry on and preserve that Cause and Interest which was by them valued above their Lives, and whose Bloud crieth loud to us to persevere therein unto the end.</p>
+            <p>Let us therefore, we beseech you, provoke both you and our selves, not to consult with carnal reason in these great Mutations, but let us labour by faith to see the Lord carry on His own Work, and to ma<g ref="char:EOLhyphen"/>nifest
+<pb n="6" facs="tcp:133124:4"/> our selves, whom God hath called and chosen to these stations, wherein we stand, to be also faithful in doing the Work unto which He shall appoint us.</p>
+            <p>Dear Brethren, The Work hath hitherto been to break and to pull down, which every one almost seemeth to be good at; but it's now the expectation of good men, that building and establishing work shall follow, for which yet there are not, in our view, many fit, and therefore it will be your duty and ours to pray without ceasing, that those whom God shall call to the Government, may be men full of the holy Ghost, and of power, and may have His continual presence in the carrying on of so great a Work, on the issue whereof, depends (as we are perswaded) the Interest of the Saints throughout the whole world.</p>
+            <p>Now the Lord keep our hearts close to Himself, that so, however things go about, we may be found walking as becometh the Gospel of Christ, in faith towards God, in love one towards another, and in peace and righteousness towards all men: Which that we may do, let us earnestly beg your continual and fervent Prayers, even as we desire to make mention of you as often as we encompass the Throne of Grace, in the Name of our Lord Jesus Christ, in whom we are,</p>
+            <closer>
+               <dateline>
+                  <hi>White-hall,</hi>
+                  <date>
+                     <hi>May</hi> 3. 1653.</date>
+               </dateline>
+               <signed>Your most affectionate Friends and Brethren.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For the honorable Colonel</hi> Lilburne, <hi>Commander in chief of the Forces in</hi> Scotland, <hi>to be communicated to our dear Friends, the Officers in his Command.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Right Honourable and truly beloved Christian Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Letter of <hi>May</hi> 3. (expressing your zeal for the ad<g ref="char:EOLhyphen"/>vancement of the Interest of Christ and His People in the World, and particularly in these Nations; as also your good affection unto us, as Fellow-Members with you) we have received, and having read and considered it, do blesse the Lord for his good Hand of Providence, leading you, to and through your former and latter great Undertakings; and for those breathings of his holy Spirit upon your hearts, inflaming your desires of improving what is already done, to a further advantage for the set<g ref="char:EOLhyphen"/>ting up of the Kingdom of Jesus Christ; and consequently of holiness, righteousnesse and Peace. And although the Declaration of his Ex<g ref="char:EOLhyphen"/>cellency and his Councel of Officers (comming to our hands before yours) had acquainted us with the dissolution of the late Parliament,
+<pb n="7" facs="tcp:133124:4"/> and the just and weighty grounds from whence it arose; whereby we were not onely satisfied in our understandings, but so dilated in our af<g ref="char:EOLhyphen"/>fections, that we could not chuse but bear speedy witnesse unto that Act of yours, which so rejoyceth the hearts of the Godly, and open<g ref="char:EOLhyphen"/>eth so wide a door of hope to the People in generall, to reap in short time, the desireable fruits of our promises, and their expectations, hath caused us to anticipate, and give an answer (which we doubt not but by this time is come unto you) to so much of your Letter before we received it; by which it may be seen that there is no distance, but onely of place betwixt us: Yet do we think it out duty, having such an occasion of Writing) to endeavour still to keep these things warm both upon your spirits and our own, by remembring as what we have received from the Lord, so what returns he expecteth from us.</p>
+            <p>
+               <hi>He hath levelled the Mountains and the Hills, cut down the Ce<g ref="char:EOLhyphen"/>dars of Lebanon, and the Oaks of Bashan; He hath shewen himself fearfull in praises, and doing Wonders in the midst of the Earth, even in our sight:</hi> When we remember the <hi>Worm-wood</hi> and the <hi>gall,</hi> the bitter bondage we were in not many years since, under the Ty<g ref="char:EOLhyphen"/>ranny of Regall and Episcopall Powers, and how deeply they were rooted by continuance in the Nation, how strongly fenced by pretence both of Law and Gospel; besides their numerous Armies, and the multitude of their strong holds; And then, look upon our present Freedome wrought out of their destruction by Instruments, not on<g ref="char:EOLhyphen"/>ly contemned by them, but such as the then builders would have laid aside as unfit for their end and purpose: May we not in an extasie of joy and wonder cry out, What hath God wrought! It is he alone that hath delivered us out of all our troubles and fears, and brought them low from time to time that rose up against us, and would have swallowed us up quick when they were wrathfully displeased at us: But behold they are fallen down flat, whilst we are risen and stand up<g ref="char:EOLhyphen"/>right, for the effecting of which, the Lord hath not been sparing in demonstration of his power in many miraculous Victories. So that we must needs acknowledge, that the Lord hath wrought all our Works for us; He it is that at this time hath not onely enlarged the hearts, and opened the mouths of those that fear the Lord, to blesse his Name on your behalf, and to give testimony to your Proceedings, but hath convinced the hearts, or stopped the mouths of all others, that there is not so much as the noise of a dog barking, or a serpent hissing in the way of your great and Publick Affairs.</p>
+            <pb n="8" facs="tcp:133124:5"/>
+            <p>And now dear and Worthy Friends, what is it that the Lord doth require at our hands, but that as he hath done all for us; so we should act all for him, that in the strength of former experiences, confirming to our sight the truth of his promises, we should in our stations be carrying on the Lords design of establishing the Mountain of his house upon the top of the Mountains. Indeed, when according to Gods Decree and Oath, the Lord Jesus shal lift up his Scepter over the Nations, and set up his banner of holiness in the hearts and lives of those that pro<g ref="char:EOLhyphen"/>fesse his Name, then may we expect that his habitation shal be righteous<g ref="char:EOLhyphen"/>nesse and the effect of that Righteousnesse Peace and Assurance for ever. We confesse that this Work is spiritual, and so not to be accomplished by humane power and might policy or prudence, but by the Spirit of the Lord: and yet is Truth to spring out of the earth; the Lord wil so far own his faithfull servants (though but few) that he will lay the foundation of this glorious structure, by the Operation of his Spirit in their hearts. And this Work we cannot but believe, shal be carried on in a rationall and visible way, to the destruction of <hi>Babylon,</hi> and building up the wals of <hi>Zion.</hi> And truly, we hope, the Lord hath reserved you to this season, to give you the honor and comfort (after all your hard travels of removing obstructions out of the way) of chusing fit Instruments and materials for that Work; and this we are the more confident of, because we find him at this time stirring up in our Noble Generall and your selves an excel<g ref="char:EOLhyphen"/>lent Spirit of faith, zeal, humility, and self-deniall.</p>
+            <p>
+               <hi>Dear Brethren,</hi> It is in our hearts to live and dye with you, and through the strength of the Almighty, to perform al our vows, which we rejoice you have stil so fresh in your remembrance. You are manifested to our hearts by your Actions and Declarations, &amp; our long knowledge of you, main<g ref="char:EOLhyphen"/>ly to seek the things of Jesus Christ, &amp; the good of the Nation. And indeed what else can you find in these transactions (laying aside the peace and comfort of your own hearts) but a heavy burden of businesse for the pre<g ref="char:EOLhyphen"/>sent upon your shoulders, much aggravated, we doubt, by the earnestnes of some, who though they believe, yet peradventure make hast, and impor<g ref="char:EOLhyphen"/>tune your expedition, in which we trust you wil endeavour with all con<g ref="char:EOLhyphen"/>veniency to answer their desires: Truly we simpathize with you in this labour of love to our poor Nation, and humbly and heartily beseech the Lord to establish, strengthen and encourage you by his constant Spirit in the production of those blessed fruits of your conceptions &amp; Resolutions.</p>
+            <p>Now, the Lord of heaven lead you by the right hand, inable you as you have begun to walk in a direct path, to that glorious end of advancing the name of Jesus Christ, &amp; the weal of these Nations under his protection and Government; &amp; that having put your hand to the Plough, you may neither look back, nor leave off, til the Land be fruitful in good works, and that every one may sit under his own Vine, and under his own Fig-tree, blessing the Lord for those gracious Dispensations, where<g ref="char:EOLhyphen"/>in he made you instrumentall of. This is the constant and earnest Prayer of,</p>
+            <closer>
+               <dateline>
+                  <hi>Dalkeith,</hi>
+                  <date>
+                     <hi>May</hi> 17. 1653.</date>
+               </dateline>
+               <signed>Your truly affectionate Friends and Brethren.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For the Right Honorable Major-General</hi> Lambert, <hi>to be commuicated to our dear and Christian Friends of the Army in</hi> England.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
